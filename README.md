@@ -5,8 +5,8 @@ That's a test that I made in a hurry to deliver to "Sem Hora" company. It's not 
 
 I've put a docker file in this project with nginx and MySQL. But, if you prefer you can run on an Apache server. The requirements is bellow:
 
-1. PHP =< 5.6
-2. MySQL =< 5.8
+1. PHP >= 5.6
+2. MySQL >= 5.8
 3. Composer
 4. gulp
 5. bower
